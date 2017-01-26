@@ -132,4 +132,4 @@ POWERLINE_BASH_SELECT=1
 export SDKMAN_DIR="/home/Ava1oN/.sdkman"
 [[ -s "/home/Ava1oN/.sdkman/bin/sdkman-init.sh" ]] && source "/home/Ava1oN/.sdkman/bin/sdkman-init.sh"
 
-#alias emacs = 'emacs -nw'
+alias emacs='emacs -nw'
