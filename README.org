@@ -1,8 +1,10 @@
 * Personal Emacs Preferences
-** goal
+** Goal
 - C/C++ development
 - Python development
 - Front-End development
   - HTML + CSS
   - Javascript
 
+** Screenshot
+[[https://github.com/loong-zijim/Emacs-Conf-Lung/blob/master/emacs.png?raw=true]]
