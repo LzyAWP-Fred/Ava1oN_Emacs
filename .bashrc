@@ -116,20 +116,10 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export TERM=xterm-256color
-
-if [[ $TERMINIX_ID ]]; then
-        source /etc/profile.d/vte.sh
-fi
+alias emacs='emacs -nw' #emacs -nw 变成了 emacs
 
 powerline-daemon -q
 POWERLINE_BASH_CONTINUATION=1
 POWERLINE_BASH_SELECT=1
-. /usr/lib/python2.7/site-packages/powerline/bindings/bash/powerline.sh
+. /usr/local/lib/python2.7/dist-packages/powerline/bindings/bash/powerline.sh
 
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/home/Ava1oN/.sdkman"
-[[ -s "/home/Ava1oN/.sdkman/bin/sdkman-init.sh" ]] && source "/home/Ava1oN/.sdkman/bin/sdkman-init.sh"
-
-alias emacs='emacs -nw'

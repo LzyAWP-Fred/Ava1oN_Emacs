@@ -1,0 +1,8 @@
+* Personal Emacs Preferences
+** goal
+- C/C++ development
+- Python development
+- Front-End development
+  - HTML + CSS
+  - Javascript
+

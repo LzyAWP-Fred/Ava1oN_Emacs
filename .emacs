@@ -131,3 +131,4 @@
 (require 'highlight-indentation)
 (add-hook 'prog-mode-hook 'highlight-indentation-mode)
 (set-face-background 'highlight-indentation-face "#696969")
+
