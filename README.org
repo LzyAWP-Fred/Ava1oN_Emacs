@@ -7,4 +7,5 @@
   - Javascript
 
 ** Screenshot
+[[https://github.com/lung-zijim/Emacs-Conf-Lung/blob/master/emacs1.png]]
 [[https://github.com/loong-zijim/Emacs-Conf-Lung/blob/master/emacs.png?raw=true]]
